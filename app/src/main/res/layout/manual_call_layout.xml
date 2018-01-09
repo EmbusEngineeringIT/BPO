@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="200dp">
+
+    <EditText
+        android:id="@+id/call_num_edt"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:hint="Enter Number"
+        android:gravity="center"
+        android:inputType="number"
+        android:layout_margin="@dimen/twenty"
+        android:background="@drawable/manual_cal_edt_background"/>
+
+</LinearLayout>
