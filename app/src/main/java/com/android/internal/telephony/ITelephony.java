@@ -3821,7 +3821,11 @@ public void dial(String number) throws android.os.RemoteException;
      * @param number the number to be called.
      */
 public void call(String callingPackage, String number) throws android.os.RemoteException;
+<<<<<<< HEAD
 /**
+=======
+    /**
+>>>>>>> Added no of calls connected and other stuff
      * End call if there is a call in progress, otherwise does nothing.
      *
      * @return whether it hung up

@@ -3,9 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BPO.iml" filepath="$PROJECT_DIR$/BPO.iml" />
+<<<<<<< HEAD
       <module fileurl="file://C:\Users\Kums\AndroidStudioProjects\BPO\BPO.iml" filepath="C:\Users\Kums\AndroidStudioProjects\BPO\BPO.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:\Users\Kums\AndroidStudioProjects\BPO\app\app.iml" filepath="C:\Users\Kums\AndroidStudioProjects\BPO\app\app.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+>>>>>>> Added no of calls connected and other stuff
     </modules>
   </component>
 </project>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <resources>
     <string name="app_name">AirVoice</string>
     <string name="title_activity_home">Home</string>
@@ -10,3 +11,18 @@
     <string name="average_spend_in_month">Average Spend\nIn Month</string>
 
 </resources>
+=======
+<resources>
+    <string name="app_name">AirVoice</string>
+    <string name="gcm_sender_Id">806489729235</string>
+    <string name="title_activity_home">Home</string>
+    <string name="others_comment">Enter Comment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="call_hdng">Intiate Call</string>
+    <string name="manual_call_btn">Call</string>
+    <string name="average_spend_in_month">Average Spend\nIn Month</string>
+
+</resources>
+>>>>>>> Added no of calls connected and other stuff
